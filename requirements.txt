@@ -9,3 +9,4 @@ typing
 pyngrok
 lightgbm
 scikit-learn
+category_encoders
